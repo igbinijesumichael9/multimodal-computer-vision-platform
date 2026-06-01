@@ -242,6 +242,23 @@ POST /recognize-face
 
 ---
 
+## System Architecture
+
+![Architecture](assets/architecture.png)
+
+## Application Screenshots
+
+### Object Detection
+![Object Detection](assets/object_detection.png)
+
+### Image Classification
+![Image Classification](assets/image_classification.png)
+
+### Face Recognition
+![Face Recognition](assets/face_recognition.png)
+
+---
+
 ## Author
 
 **Augustine Ajali Esosa**
